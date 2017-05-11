@@ -1,0 +1,8 @@
+/home/medson/Documents/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/home/medson/Documents/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/home/medson/Documents/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/home/medson/Documents/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/home/medson/Documents/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/home/medson/Documents/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/home/medson/Documents/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/home/medson/Documents/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
