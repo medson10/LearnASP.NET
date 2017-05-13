@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/medson/Documents/hwapp/hwapp.csproj",
+      "projectUniqueName": "/home/medson/Documents/LearnASP.NET/hwapp/hwapp.csproj",
       "projectName": "hwapp",
-      "projectPath": "/home/medson/Documents/hwapp/hwapp.csproj",
-      "outputPath": "/home/medson/Documents/hwapp/obj/",
+      "projectPath": "/home/medson/Documents/LearnASP.NET/hwapp/hwapp.csproj",
+      "outputPath": "/home/medson/Documents/LearnASP.NET/hwapp/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/hwapp.dll": "/home/medson/Documents/hwapp/bin/placeholder/netcoreapp1.1/hwapp.dll"
+        "lib/netcoreapp1.1/hwapp.dll": "/home/medson/Documents/LearnASP.NET/hwapp/bin/placeholder/netcoreapp1.1/hwapp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
